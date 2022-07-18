@@ -10,3 +10,4 @@ for i in nums :
             N -= 1
             break
 print(N)
+# 실험실험
